@@ -1,0 +1,5 @@
+test:
+  dev:
+    image: debian:stable-slim
+    script:
+      - echo hi
