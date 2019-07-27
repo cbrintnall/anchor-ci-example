@@ -3,3 +3,4 @@ deploy:
     image: debian:stable-slim
     script:
       - echo hi
+      - not a real command
