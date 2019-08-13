@@ -3,4 +3,4 @@ deploy:
     image: debian:stable-slim
     script:
       - echo hi
-      - cd /notrealdirectory
+      - echo finished job!
